@@ -1,6 +1,6 @@
 <h1>Supermercado SQ</h1>
 <p align="center">
-  <img width= "50%" src="assets/images/StackOverCode.png">
+  <img width= "50%" src="assets/images/StackOverCode.jpeg">
 </p>
 <h2>💬 Sobre o Projeto</h2>
 <p>
