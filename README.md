@@ -3,7 +3,20 @@
   <img width= "50%" src="assets/images/StackOverCode.jpeg">
 </p>
 <h2>💬 Sobre o Projeto </h2>
-
+  <p>
+    O supermercado SQ necessita de um sistema de gerenciamento de alimentos e composições
+    alimentares.
+  </p>
+  <p>
+    Esse sistema poderá ser acessado pelos administradores do SQ, pelos fornecedores e pelos
+    clientes
+  </p>
+  <p>
+    O usuário poderá cadastrar produtos industrializados fornecendo quais ingredientes tem em sua
+    composição. Dessa forma, em outros momentos será fácil pesquisar e confirmar se um produto
+    contém ou não determinado ingrediente utilizando essa aplicação. Podendo até ser escalado o seu
+    uso para usuários globais, como uma espécie de comunidade 
+  </p>
 <h2>✒️ Atores do Sistema </h2>
 
 <table>
