@@ -1,4 +1,4 @@
-<div style="width: 100%; display: flex; justify-content: center">
+<div style="margin-left: 50%">
   <h1>
     <img style="margin-top: 50px;" width="34px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-market-vegan-and-vegetarian-flaticons-flat-flat-icons-4.png"/>
       Supermercado SQ  
