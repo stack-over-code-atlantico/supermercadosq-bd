@@ -22,8 +22,14 @@
     <td>
       <p>
         O Administrador do sistema pode cadastrar outros adminitradores, validar comentários e postagens.
+      </p>
+      <p>
         O Administrador poderá adicionar suas proprias postagens.
+      </p>
+      <p>
         Poderá também banir usuários que fogem do padrão e das regras do serviços prestados e da política do site.
+      </p>
+      <p>
         O Administrador poderá mudar o nível de acesso dos usuários, assim, transformar cliente em fornecedor, ou em próprio administrador.
       </p>
     </td>
