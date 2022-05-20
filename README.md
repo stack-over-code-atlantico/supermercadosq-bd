@@ -2,7 +2,57 @@
 <p align="center">
   <img width= "50%" src="assets/images/StackOverCode.jpeg">
 </p>
-<h2>💬 Sobre o Projeto</h2>
+<h2>💬 Sobre o Projeto </h2>
+
+<h2>✒️ Atores do Sistema </h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <p>Atores</p>
+    </td>
+    <td align="center">
+      <p>Descrição</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p>Administrador</p>
+    </td>
+    <td>
+      <p>
+        O Administrador do sistema pode cadastrar outros adminitradores, validar comentários e postagens.
+        O Administrador poderá adicionar suas proprias postagens.
+        Poderá também banir usuários que fogem do padrão e das regras do serviços prestados e da política do site.
+        O Administrador poderá mudar o nível de acesso dos usuários, assim, transformar cliente em fornecedor, ou em próprio administrador.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p>Fornecedor</p>
+    </td>
+    <td>
+      <p>
+        Pode visualizar as modalidades, horários, professores e vagas, pode solicitar o agendamento 
+        de uma aula experimental, ver a localização do estabelecimento e as principais notícias.
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <p>Cliente</p>
+    </td>
+    <td>
+      <p>
+        Pode visualizar as modalidades, horários, professores e vagas, pode solicitar o agendamento 
+        de uma aula experimental, ver a localização do estabelecimento e as principais notícias.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 <p>
   <p>•   <strong>Tabela Usuário</strong>  </p>
 <p>O usuário pode ser administrador, cliente e fornecedor. Todos os usuários podem postar  produtos e comentar, porém o administrador tem uma funcionalidade a mais que é de validar os comentários e os posts dos produtos. O usuário tem nome, cnpj/cpf, email, senha e nível como campos obrigatórios para serem preenchidos no cadastro. O usuário também tem uma opção de colocar um nome social, um telefone, o mesmo pode estar ativo ou inativo.</p>
