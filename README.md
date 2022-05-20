@@ -4,7 +4,7 @@
 </p>
 <h2>💬 Sobre o Projeto</h2>
 <p>
-  <p>•    Tabela Usuário</p>
+<p>•   <strong>Tabela Usuário</strong></p>
 <p>O usuário pode ser administrador, cliente e fornecedor. Todos os usuários podem postar  produtos e comentar, porém o administrador tem uma funcionalidade a mais que é de validar os comentários e os posts dos produtos. O usuário tem nome, cnpj/cpf, email, senha e nível como campos obrigatórios para serem preenchidos no cadastro. O usuário também tem uma opção de colocar um nome social, um telefone, o mesmo pode estar ativo ou inativo.</p>
   <p>•    Tabela Endereço</p>
 <p>O cliente pode ter apenas um endereço e todos os campos do endereço devem ser preenchidos.</p>
