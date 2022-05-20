@@ -1,7 +1,7 @@
 <p align="center">
-  <img style="margin-top: 50px;" width="34px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-market-vegan-and-vegetarian-flaticons-flat-     flat-icons-4.png"/>
+  <img style="margin-top: 50px;" width="34px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-market-vegan-and-vegetarian-flaticons-flat-    flat-icons-4.png"/>
    <h1> Supermercado SQ  </h1>
-  <img style="border-radius: 50%;" width="34px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-market-vegan-and-vegetarian-flaticons-       flat-flat-icons-4.png"/>
+  <img style="border-radius: 50%;" width="34px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-market-vegan-and-vegetarian-flaticons-     flat-flat-icons-4.png"/>
 </p>
 <p align="center">
   <img width= "30%" style="margin: 0 auto" src="assets/images/StackOverCode.jpeg">
