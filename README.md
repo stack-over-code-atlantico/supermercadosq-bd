@@ -1,6 +1,6 @@
 <h1><img style="margin-top: 50px;" width="34px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-market-vegan-and-vegetarian-flaticons-flat-flat-icons-4.png"/> Supermercado SQ <img style="border-radius: 50%;" width="34px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-market-vegan-and-vegetarian-flaticons-flat-flat-icons-4.png"/></h1>
 <p align="center">
-  <img width= "50%" src="assets/images/StackOverCode.jpeg">
+  <img width= "20%" style="margin: 0 auto" src="assets/images/StackOverCode.jpeg">
 </p>
 <h2>💬 Sobre o Projeto </h2>
   <p>
