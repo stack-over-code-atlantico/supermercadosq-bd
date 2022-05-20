@@ -63,17 +63,53 @@
   </tr>
 </table>
 
+<h2>⌨️ Entidades </h2>
 
-<p>
-  <p>•   <strong>Tabela Usuário</strong>  </p>
-<p>O usuário pode ser administrador, cliente e fornecedor. Todos os usuários podem postar  produtos e comentar, porém o administrador tem uma funcionalidade a mais que é de validar os comentários e os posts dos produtos. O usuário tem nome, cnpj/cpf, email, senha e nível como campos obrigatórios para serem preenchidos no cadastro. O usuário também tem uma opção de colocar um nome social, um telefone, o mesmo pode estar ativo ou inativo.</p>
-  <p>•    <strong>Tabela Endereço</strong>  </p>
-<p>O cliente pode ter apenas um endereço e todos os campos do endereço devem ser preenchidos.</p>
-  <p>•   <strong>Tabela Produto</strong>  </p>
-<p>O produto possui nome, ingredientes, uma imagem (opcional), uma data de postagem, um campo cujo nome é editado para informar caso o cliente tenha editado o post do produto o mesmo recebe true, o produto tem um status que é referente a situação do post do produto, o mesmo pode ser ANÁLISE, APROVADO ou REPROVADO, o produto precisa da identificação do usuário que postou e da identificação do usuário que aprovou o post (sendo esta última função reservada ao administrador).</p>
-  <p>•    <strong>Tabela Comentário</strong>  </p>
-<p>O comentário tem uma identificação, uma mensagem que são obrigatórios, o comentário tem um status que é referente a situação do comentário, o mesmo pode ser ANÁLISE, APROVADO ou REPROVADO, o comentário tem uma data e um campo editado, caso o mesmo edite o comentário o mesmo recebe true, o comentário tem a identificação do produto, a identificação do usuário e a identificação do usuário que aprovou o post (sendo esta última função reservada ao administrador).</p>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <p>Tabela</p>
+    </td>
+    <td align="center">
+      <p>Descrição</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p>Tabela usuário</p>
+    </td>
+    <td>
+      <p>
+        <p>O usuário pode ser administrador, cliente e fornecedor. Todos os usuários podem postar  produtos e comentar, porém o administrador tem uma funcionalidade a             mais que é de validar os comentários e os posts dos produtos. O usuário tem nome, cnpj/cpf, email, senha e nível como campos obrigatórios para serem                   preenchidos no cadastro. O usuário também tem uma opção de colocar um nome social, um telefone, o mesmo pode estar ativo ou inativo.</p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p>Tabela endereço</p>
+    </td>
+    <td>
+      <p>O cliente pode ter apenas um endereço e todos os campos do endereço devem ser preenchidos.</p>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <p>Tabela Produto</p>
+    </td>
+    <td>
+     <p>O produto possui nome, ingredientes, uma imagem (opcional), uma data de postagem, um campo cujo nome é editado para informar caso o cliente tenha editado o           post do produto o mesmo recebe true, o produto tem um status que é referente a situação do post do produto, o mesmo pode ser ANÁLISE, APROVADO ou REPROVADO, o          produto precisa da identificação do usuário que postou e da identificação do usuário que aprovou o post (sendo esta última função reservada ao administrador).        </p>
+    </td>
+  </tr>
+      <tr>
+    <td align="center">
+      <p>Tabela Comentário</p>
+    </td>
+    <td>
+      <p>O comentário tem uma identificação, uma mensagem que são obrigatórios, o comentário tem um status que é referente a situação do comentário, o mesmo pode ser             ANÁLISE, APROVADO ou REPROVADO, o comentário tem uma data e um campo editado, caso o mesmo edite o comentário o mesmo recebe true, o comentário tem a                    identificação do produto, a identificação do usuário e a identificação do usuário que aprovou o post (sendo esta última função reservada ao administrador)
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 👨‍💻 Desenvolvedores
 
