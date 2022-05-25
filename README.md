@@ -135,6 +135,63 @@
   </tr>
 </table>
 
+<h2>📜 História do Usuário </h2>
+  <h3>
+    Stakeholders: Usuários com intolerância e alergia a determinados alimentos.
+  </h3>
+  <p>
+      <strong>Bárbara de Alencar</strong> é uma entusiasta na cozinha, geralmente ela tem preferência pela parte
+de confeitaria mas assim como o pessoal da sua família ela sofre com alergia a corantes
+mesmo a sua alergia sendo mais moderada do que alguns membros da sua família é um
+cuidado essencial quando se tem reunião da família pois ela geralmente é responsável
+pelas sobremesas. Então para evitar problemas enquanto aos corantes a Bárbara tenta
+sempre usar produtos já conhecidos mas quando esses produtos estão em falta é uma luta
+para avaliar quais têm corantes ou não em sua composição, recentemente ela descobriu o
+Supermercado SQ que consegue pesquisar facilmente sobre os produtos e avaliar junto
+com os comentários de quem passa pela mesma situação, desse modo ela se sente mais
+segura em comprar um ingrediente X para preparar as suas sobremesas em família.
+A Bárbara como usuária do Supermercado SQ resolveu contar o motivo de usá-lo como
+referência para suas escolhas. Segundo ela o que a deixa mais confiante em suas escolhas
+é a parte de comentários sobre o produto, saber que pessoas que estão na mesma situação
+usaram determinado produto, acaba passando uma sensação de segurança na hora de
+comprar e escolher os ingredientes. Ela também destacou que a facilidade de pesquisar um
+produto atualizado é o maior diferencial da plataforma. Para a plataforma ficar ainda melhor
+só faltou te um alertar quando eu pesquisasse o produto aí não ia ter que ficar lendo os
+ingredientes, ele já ia me notificar com base na minha alergia do perfil.
+Como administrador quero poder adicionar, editar e excluir itens para manter os produtos
+atualizados.
+<p>
+Como administrador quero poder filtrar itens para facilitar na pesquisa dos mesmos.
+</p>
+<p>
+Como administrador quero poder editar, responder e excluir os comentários para controlar o
+fluxo de comentários.
+</p>
+<p>
+Como administrador quero poder avaliar denúncias de comentários para avaliar caso seja
+necessário a aplicação de uma punição ao usuário pelo comentário ofensivo.
+</p>
+<p>
+Como administrador quero poder bloquear ou banir um usuário da plataforma para manter a
+ordem no site.
+</p>
+<p>
+Como usuário quero ter uma área de cadastro para cadastrar minha conta.
+</p>
+<p>
+Como usuário quero ter uma área de login para acessar minha conta.
+</p>
+<p>
+Como usuário quero poder editar minha conta para deixar os meus dados atualizados.
+</p>
+<p>
+Como usuário quero poder filtrar itens para facilitar na pesquisa dos mesmos.
+</p>
+<p>
+Como usuário quero poder adicionar comentários para contribuir com o site.
+<p>
+  </p>
+
 ## 👨‍💻 Desenvolvedores
 
 <table align="center">
