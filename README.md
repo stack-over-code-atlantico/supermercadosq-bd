@@ -75,8 +75,13 @@
     </td>
     <td>
       <p>
-        Pode visualizar as modalidades, horários, professores e vagas, pode solicitar o agendamento 
-        de uma aula experimental, ver a localização do estabelecimento e as principais notícias.
+        Pode adicionar os produtos que possui alergia e que conhece bem seus ingrediente.
+      </p>
+      <p>
+        Pode curtir e comentar as próprias publicações, como as publicações de outras pessoas.
+      </p>
+      <p>
+        Poderá também denunciar comentários e publicações nos quais ele acha que fogem da política do site.
       </p>
     </td>
   </tr>
