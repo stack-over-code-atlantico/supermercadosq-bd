@@ -160,35 +160,43 @@ só faltou te um alertar quando eu pesquisasse o produto aí não ia ter que fic
 ingredientes, ele já ia me notificar com base na minha alergia do perfil.
 Como administrador quero poder adicionar, editar e excluir itens para manter os produtos
 atualizados.
+<h3> Administrador </h3>
 <p>
-Como administrador quero poder filtrar itens para facilitar na pesquisa dos mesmos.
+• Como administrador, quero poder responder e excluir os comentários para controlar o
+fluxo da aplicação.
 </p>
 <p>
-Como administrador quero poder editar, responder e excluir os comentários para controlar o
-fluxo de comentários.
+• Como administrador, quero poder avaliar denúncias de comentários para avaliar caso seja
+necessário a aplicação de uma punição ao usuário pelo comentário ou postagem ofensiva.
 </p>
 <p>
-Como administrador quero poder avaliar denúncias de comentários para avaliar caso seja
-necessário a aplicação de uma punição ao usuário pelo comentário ofensivo.
-</p>
-<p>
-Como administrador quero poder bloquear ou banir um usuário da plataforma para manter a
+• Como administrador, quero poder bloquear ou banir um usuário da plataforma para manter a
 ordem no site.
 </p>
 <p>
-Como usuário quero ter uma área de cadastro para cadastrar minha conta.
+• Como administrador, quero poder alterar o nível de acesso de qualquer usuário da plataforma.
 </p>
 <p>
-Como usuário quero ter uma área de login para acessar minha conta.
+• Como administrador (ADÃO), quero poder cadastrar outros administradores.
+</p>
+<h3> Usuário </h3>
+<p>
+• Como usuário, quero ter uma área de cadastro para cadastrar minha conta.
 </p>
 <p>
-Como usuário quero poder editar minha conta para deixar os meus dados atualizados.
+• Como usuário, quero ter uma área de login para acessar minha conta.
 </p>
 <p>
-Como usuário quero poder filtrar itens para facilitar na pesquisa dos mesmos.
+• Como usuário, quero poder editar minha conta para deixar os meus dados atualizados.
 </p>
 <p>
-Como usuário quero poder adicionar comentários para contribuir com o site.
+• Como usuário, quero poder filtrar itens para facilitar na pesquisa dos mesmos.
+</p>
+<p>
+• Como usuário, quero poder adicionar comentários, assim como edita-los para contribuir com o site.
+<p>
+<p>
+• Como usuário, quero poder criar minhas próprias postagens sobre os produtos que tenho conhecimento.
 <p>
   </p>
 
