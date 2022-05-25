@@ -198,6 +198,10 @@ ordem no site.
 <p>
 • Como usuário, quero poder criar minhas próprias postagens sobre os produtos que tenho conhecimento.
 <p>
+<h3> Modelo visual </h3>
+<div align="center">
+      <img src="https://i.ibb.co/8rYsb5G/Screenshot-2.png"/>
+<div/>
   </p>
 
 ## 👨‍💻 Desenvolvedores
